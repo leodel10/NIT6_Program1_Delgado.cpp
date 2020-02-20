@@ -1,0 +1,6 @@
+Bubble sort Ascending 
+
+time for run 1: 0.021176 seconds
+time for run 2: 0.017685 seconds 
+time for run 3: 0.019323 seconds 
+Average time for bubble sort ASC: 0.01939467 seconds 
